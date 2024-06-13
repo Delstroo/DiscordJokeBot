@@ -1,6 +1,6 @@
 # DiscordJokeBot
 
-** How to install
+## How to install
 - Clone repository.
 - Open command line and intall discord.py using `pip install discord.py`.
 
