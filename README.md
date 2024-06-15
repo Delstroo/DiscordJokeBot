@@ -8,4 +8,7 @@
 - Open using main.py.
 - Run `python main.py` in command line.
 
+## How to use in server 
+- call `!joke` in server chat.
+
 
