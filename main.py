@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN = '59bddc6b5ef6960c66ff14d08707a961f67dfbad9d607260d7048cfe51269234'
+TOKEN = '59bddc6b5ef6960c66ff14d08707a961f67dfbad9d607260d7048cfe51269266'
 
 # List of jokes
 jokes = [
